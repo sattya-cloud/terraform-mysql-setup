@@ -1,0 +1,2 @@
+mysql -h terraform-20250101125938477200000001.c9amwmsoe0cu.us-east-1.rds.amazonaws.com -P 3306 -u admin -p
+terraform-20250101125938477200000001.c9amwmsoe0cu.us-east-1.rds.amazonaws.com
